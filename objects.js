@@ -8,4 +8,6 @@ function updatePlaylist(playlist, john, singalong){
   return playlist
 ;}
 
-function removeFromPlaylist(playlist, john)
+function removeFromPlaylist(playlist, john){
+  delete 
+}
