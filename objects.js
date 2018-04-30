@@ -1,7 +1,7 @@
 var playlist = {
-  Tom: 'My Bloody Valentine',
-  dick: 'Phil Ochs',
-  harry: 'Slowdive'
+  Tom: 'Jingle',
+  dick: 'Bells',
+  harry: 'Rock'
 };
 
 function updatePlaylist(playlist, Nick, GetLucky){
