@@ -4,5 +4,7 @@ var playlist = {
   harry: "Rock"
 };
 function updatePlaylist(playlist, john, singalong){
-  playlist[john] = singalong
+  playlist[john] = singalong;
+  return playlist
 ;}
+
