@@ -3,4 +3,6 @@ var playlist = {
   dick: "Bell",
   harry: "Rock"
 };
-function updatePlaylist(playlist)
+function updatePlaylist(playlist, john, singalong){
+  
+}
