@@ -9,5 +9,6 @@ function updatePlaylist(playlist, john, singalong){
 ;}
 
 function removeFromPlaylist(playlist, john){
-  delete playlist[john]
-}
+  delete playlist[john];
+  return playlist
+;}
